@@ -1,0 +1,12 @@
+i.icon {
+	font-size: 1.5em;
+	/* double the size of the container */
+}
+
+.container.main {
+	margin-top: 7.0em;
+}
+
+#delete {
+	display: inline;
+}
