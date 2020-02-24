@@ -18,7 +18,7 @@ mongoose.set('useCreateIndex', true);
 mongoose.set('useUnifiedTopology', true);
 
 // mongoose.connect("mongodb://localhost:27017/restful_blog_app");
-mongoose.connect("mongodb+srv://Lisa:hello@cluster0-ulpnb.mongodb.net/test?retryWrites=true&w=majority", {
+mongoose.connect("mongodb+srv://Lisa:****@cluster0-ulpnb.mongodb.net/test?retryWrites=true&w=majority", {
 	useNewUrlParser: true,
 	useCreateIndex: true
 }).then(() => {
